@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiDosAttackModules", "AntiDosAttackModules\AntiDosAttackModules.csproj", "{C44AA13A-8541-4661-B75F-52DBF519F263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadChristensensCrappyAntiDosAttackModule", "MadChristensensCrappyAntiDosAttackModule\MadChristensensCrappyAntiDosAttackModule.csproj", "{3EF74CDF-6747-4697-A7C1-77A6B74A37CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiDosAttackModule", "AntiDosAttackModule\AntiDosAttackModule.csproj", "{3E6BBD41-63D3-4EB2-AE37-531B583B5925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44AA13A-8541-4661-B75F-52DBF519F263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44AA13A-8541-4661-B75F-52DBF519F263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44AA13A-8541-4661-B75F-52DBF519F263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44AA13A-8541-4661-B75F-52DBF519F263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF74CDF-6747-4697-A7C1-77A6B74A37CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF74CDF-6747-4697-A7C1-77A6B74A37CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF74CDF-6747-4697-A7C1-77A6B74A37CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF74CDF-6747-4697-A7C1-77A6B74A37CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6BBD41-63D3-4EB2-AE37-531B583B5925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6BBD41-63D3-4EB2-AE37-531B583B5925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6BBD41-63D3-4EB2-AE37-531B583B5925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6BBD41-63D3-4EB2-AE37-531B583B5925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
